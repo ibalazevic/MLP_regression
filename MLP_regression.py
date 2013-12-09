@@ -1,3 +1,4 @@
+# authors: Ivana Balazevic & Franziska Horn
 import random
 import numpy as np
 import matplotlib.pyplot as plt
